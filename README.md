@@ -1,6 +1,6 @@
 # NPOSystem — 非營利組織管理系統
 
-將舊有 **Access 前端 + MS-SQL 後端** 的非營利組織管理系統，轉換為現代化 **Web-Based + PostgreSQL + Python** 架構。
+非營利組織管理系統，轉換為現代化 **Web-Based + PostgreSQL + Python** 架構。
 
 ## 子系統
 
